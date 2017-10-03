@@ -1,0 +1,14 @@
+{
+	"open_sprinkler_ip" : "http://192.168.100.1:8080",
+	"md5_pass" : "your ospi md5 pass",
+	"open_weather_api" : "youropenweatherapikey",
+	"weather_location" : "Napa, US",
+	"weather_latlong" : "38.2975,-122.2869",
+	"email_login_user" : "email-login-user@email.com",
+	"email_passwd" : "your-encrypted-email-pass",
+	"email_from" : "return-address@email.com",
+	"email_to" : [
+		"first-address@email.com",
+		"second-address@email.com"
+	]
+}
